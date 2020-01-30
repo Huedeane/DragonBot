@@ -27,3 +27,6 @@ C:\Users\hdinh\Documents\Github\DragonBot\obj\Debug\DragonBot.csprojAssemblyRefe
 C:\Users\hdinh\Documents\Github\DragonBot\obj\Debug\DragonBot.csproj.CopyComplete
 C:\Users\hdinh\Documents\Github\DragonBot\obj\Debug\DragonBot.exe
 C:\Users\hdinh\Documents\Github\DragonBot\obj\Debug\DragonBot.pdb
+C:\Users\hdinh\Documents\Github\DragonBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hdinh\Documents\Github\DragonBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hdinh\Documents\Github\DragonBot\bin\Debug\HtmlAgilityPack.xml

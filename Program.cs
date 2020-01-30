@@ -29,7 +29,7 @@ namespace DragonBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "NjcyMjEyOTM5ODcyNDAzNDY3.XjINTw.SUxQFkZtfJaIM6ER4g0CysuQwxM";
+            string token = "NjcyMjEyOTM5ODcyNDAzNDY3.XjIgPA.CVKOceTSIH0rryICn_lKFfdMCcI";
 
             _client.Log += _client_Log;
 
